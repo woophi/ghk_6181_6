@@ -20,7 +20,7 @@ export const TICKER_TO_IMAGE: Record<string, string> = {
   ROSN: rosneftImg,
   SBER: sberImg,
   T: tbankImg,
-  VTB: vtbImg,
+  VTBR: vtbImg,
   X5: x5Img,
 };
 export const TICKER_TO_TITLE: Record<string, string> = {
@@ -32,7 +32,7 @@ export const TICKER_TO_TITLE: Record<string, string> = {
   ROSN: 'Роснефть',
   SBER: 'Сбербанк',
   T: 'Т Банк',
-  VTB: 'ВТБ',
+  VTBR: 'ВТБ',
   X5: 'ИКС 5',
 };
 

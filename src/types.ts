@@ -20,4 +20,9 @@ export type RobotItem = {
       | string;
   };
   available_assets: string[];
+  author: {
+    name: string;
+    img: string; // и т.п. person_1 person_2 person_3 person_4
+  };
+  followers: number;
 };
